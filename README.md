@@ -1,2 +1,2 @@
 # KirinTheMage
-Desctop AI-based assistant, but this one is funny
+Desktop AI-based assistant, but this one is funny
