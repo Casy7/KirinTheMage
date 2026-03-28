@@ -1,0 +1,11 @@
+KiriTheMage\App.xaml
+KiriTheMage\MainWindow.axml
+KiriTheMage\AssemblyInfo.cs
+KiriTheMage\Core\
+KiriTheMage\Core\Contracts\IAiBrainService.cs
+KiriTheMage\Core\Contracts\IAvatarViewModel.cs
+KiriTheMage\Core\Contracts\IMemoryService.cs
+KiriTheMage\Core\Contracts\ISystemInteractor.cs
+KiriTheMage\Core\Contracts\
+KiriTheMage\Core\Services\
+KiriTheMage\Core\Services\AgentOrchestrator.cs
